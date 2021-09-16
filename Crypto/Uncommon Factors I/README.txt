@@ -1,6 +1,4 @@
-题目名称: Uncommon Factors I
+Name: Uncommon Factors I
 
 flag: flag{EZ_gcd_Tr3333333}
-附件: uncommon.7z
-
-注: 不需要服务器
+attatchment: https://mega.nz/file/sthiWIiS#0yois8vZo0-CEQdBFFyeTiRsiqV7E-qbCKrVq4bWewI
